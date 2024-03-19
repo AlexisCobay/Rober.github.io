@@ -1,0 +1,121 @@
+.caja1{
+ width: 900px;
+ height: 50px;
+ position: absolute;
+ top: 0px;
+ left: 40px;
+ font-family:"Freestyle Script";
+ font-size: 30px;
+ color: white;
+ }
+ .caja2{
+ width: 600px;
+ height: 550px;
+ position: absolute;
+ top: 150px;
+ left: 700px;
+ font-family:"Bell MT";
+ font-size: 25px;
+ color: white;
+ text-align:left;
+ }
+.caja3{
+ width: 600px;
+ height: 550px;
+ position: absolute;
+ top: 150px;
+ left: 30px;
+ }
+ 
+.caja4{
+ width: 900px;
+ height: 50px;
+ position: absolute;
+ top: 750px;
+ left: 40px;
+ font-family:"Freestyle Script";
+ font-size: 30px;
+ color: white;
+ }
+ .caja5{
+ width: 600px;
+ height: 550px;
+ position: absolute;
+ top: 900px;
+ left: 700px;
+ font-family:"Bell MT";
+ font-size: 25px;
+ color: white;
+ text-align:left;
+ }
+.caja6{
+ width: 600px;
+ height: 550px;
+ position: absolute;
+ top: 900px;
+ left: 30px;
+ } 
+ .caja7{
+ width: 900px;
+ height: 50px;
+ position: absolute;
+ top: 1500px;
+ left: 40px;
+ font-family:"Freestyle Script";
+ font-size: 30px;
+ color: white;
+ }
+ .caja8{
+ width: 600px;
+ height: 550px;
+ position: absolute;
+ top: 1750px;
+ left: 700px;
+ font-family:"Bell MT";
+ font-size: 25px;
+ color: white;
+ text-align:left;
+ }
+.caja9{
+ width: 600px;
+ height: 550px;
+ position: absolute;
+ top: 1750px;
+ left: 30px;
+ }
+ 
+
+  .boton1{
+ position: absolute;
+ top: 50;
+ left: 700;
+ font-size: 18px;
+ font-family:"High Tower Text";
+ border-radius: 10px;
+ background-color: #4E4C6B;
+ color: white;
+ padding: 20px 40px;
+ text-align: center;
+ margin: 4px 2px;
+ transition-duration: 0.5s;
+ }
+ .boton1:hover{
+ background-color: #AAA6CA;
+ }
+ .boton2{
+ position: absolute;
+ top: 2400;
+ left: 700;
+ font-size: 18px;
+ font-family:"High Tower Text";
+ border-radius: 10px;
+ background-color: #4E4C6B;
+ color: white;
+ padding: 20px 40px;
+ text-align: center;
+ margin: 4px 2px;
+ transition-duration: 0.5s;
+ }
+ .boton2:hover{
+ background-color: #AAA6CA;
+ }
